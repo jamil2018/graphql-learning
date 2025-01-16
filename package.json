@@ -4,7 +4,7 @@
   "main": "index.ts",
   "scripts": {
     "start": "node .",
-    "dev": "nodemon index.ts"
+    "dev": "nodemon ."
   },
   "type": "module",
   "keywords": [],
